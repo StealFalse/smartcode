@@ -70,4 +70,5 @@ SmartCode — это информационная система для упра
 
 StealFalse — студент 3-го курса, веб-разработчик
 - GitHub: https://github.com/StealFalse
+
 Год: 2026
